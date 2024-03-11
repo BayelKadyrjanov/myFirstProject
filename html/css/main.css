@@ -7,11 +7,11 @@
 	--index: calc(1vw + 1vh);
 	--transition: 1.5s cubic-bezier(.05, .5, 0, 1);
 }
-/* @font-face {
+@font-face {
 	font-family: kamerik-3d;
 	src: url(../fonts/Intro.otf);
 	font-weight: 900;
-} */
+}
 @font-face {
 	font-family: merriweather-italic-3d;
 	src: url(../fonts/merriweather-regular-italic.woff2);
